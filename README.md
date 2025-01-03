@@ -42,7 +42,7 @@ In this, create a folder called “Wasteland Genesis”
 
 And create a folder called “Wabbajack”
 
-And create a folder called “Nexu Files”.
+And create a folder called “Nexus Files”.
 
 My file structure looks like this
 
@@ -55,7 +55,8 @@ C:Modding\Wabbajack
 C:\Modding\Wasteland Genesis
 
 
-![Description of image](images/image1.png "image_tooltip")
+![image37](https://github.com/user-attachments/assets/7605916c-e20f-4d23-ac11-2e332447ccb7)
+
 
 
 <h4>Step 2 - Downloading Wasteland Genesis</h4>
@@ -74,7 +75,8 @@ Unzip both files and save them for later
 The contents of your folder should look like this
 
 
-![alt_text](images/image2.png "image_tooltip")
+![image23](https://github.com/user-attachments/assets/243744e1-4756-430c-a466-2427bfa841d4)
+
 
 
 <h4>Step 3 - Download Wabbajack</h4>
