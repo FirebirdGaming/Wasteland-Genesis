@@ -294,7 +294,7 @@ You may see this when dropping the file into MO2. Just click ok.
 <h5>Step 12.a - Alternative method to add Bodyslide Output</h5>
 
 
-An alternative method to do this is to copy (Ctrl+C) the Bodyslide Output file (From your Nexus folder), open mods in your Wasteland Genesis install file 
+An alternative method to do this is to copy (Ctrl+C) the Bodyslide Output file (From your Nexus folder), open the 'mods' folder in your Wasteland Genesis install file 
 
 
 ![image39](https://github.com/user-attachments/assets/fb8e544b-51f3-4e41-bafc-1bbb9f7b47aa)
