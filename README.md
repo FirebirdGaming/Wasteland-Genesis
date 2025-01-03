@@ -1,8 +1,3 @@
-<!-- You have some errors, warnings, or alerts. If you are using reckless mode, turn it off to see useful information and inline alerts.
-* ERRORs: 0
-* WARNINGs: 0
-* ALERTS: 26 -->
-
 <h2 style="text-align: center">INSTALL READ ME</h2>
 
 
