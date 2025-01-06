@@ -113,8 +113,7 @@ Select ‘Install from Disk’ The middle option.
 This will take you to the next screen where you select the file and installation locations.
 
 
-![image34](https://github.com/user-attachments/assets/6ac1fb41-7c0a-4fe8-b0a9-4262effd6da8)
-
+![image34](img/image34.png)
 
 
 Under Target Modlist select the file “Wasteland Genesis.wabbajack” (not the .meta.json file) from the Nexus Folder that you created earlier.
