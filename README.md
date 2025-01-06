@@ -225,7 +225,7 @@ Then start the install process again (as per Step 5) and <span style="text-decor
 All the original setting will be saved, so just press the ‘play’ button
 
 
-![image34](https://github.com/user-attachments/assets/89a0bfdb-89bd-4a29-8d71-0022009ee6cf)
+![image34](img/image34.png)
 
 
 
