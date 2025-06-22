@@ -12,7 +12,7 @@
 
 [Manual files](#Manual-File-Downloads)
 
-[Launching Wasteland Genesis](#Run-Wasteland-Genesis)
+[Launching Wasteland Genesis](#Launching-Wasteland-Genesis)
 
 
 <h2>Requirements</h2>
@@ -162,22 +162,18 @@ On the next screen choose your file location on the left of the screen
 ![image54](https://raw.githubusercontent.com/FirebirdGaming/Images/main/Wabbajack%20File%20Location.jpg)
 
 
-<h4>Step 7 - Manual File Downloads</h4>
-
+<h2>Manual File Downloads</h2>
 
 You will be prompted to manually download 2 files.
 
-<h5>Step 7.1 - MiscHairStyle</h5>
-
+<h5>Step 7 - MiscHairStyle</h5>
 
 Press the Blue download button and close any pop ups it opens.
-
 
 ![image17](https://github.com/user-attachments/assets/329669c6-a0f8-4a4d-aea8-9665eb836774)
 
 
-
-<h5>Step 7.2 - OCBP body physics</h5>
+<h5>Step 7.1 - OCBP body physics</h5>
 
 
 🔴 ***The link takes you to Lovers Lab where there are porn pictures and it is strictly NSFW.***
@@ -275,6 +271,7 @@ When Project Genesis has completed, you should have a screen that looks like thi
 ![image21](https://github.com/user-attachments/assets/9ddc1edb-dcbc-41f1-a052-2645784445f7)
 
 
+<h2>Launching Wasteland Genesis</h2>
 
 <h4>Step 11 - Run Wasteland Genesis</h4>
 
