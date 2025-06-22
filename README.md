@@ -106,7 +106,7 @@ Open the Wabbajack file and select the Wabbajack.exe
 From the Welcome page select "Get Started" - The big pink box at the botto of the page!
 
 
-https://raw.githubusercontent.com/FirebirdGaming/Images/main/Wabbajack%20launcher.jpg
+![image30](https://raw.githubusercontent.com/FirebirdGaming/Images/main/Wabbajack%20launcher.jpg)
 
 
 This will take you to the next screen where you select the file and installation locations.
