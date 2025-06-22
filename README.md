@@ -25,7 +25,7 @@ RAM - Corsair Vengeance LPX DDR4 - 2 x 8GB (16GB)
 
 Storage - 2TB Fanxiang S500 PRO
 
-<h2>Install Steps</h2>
+<h2>Install Steps - For Nexus downloaded file</h2>
 
 
 <h4>Step 1 - Folder set-up (Optional Step)</h4>
