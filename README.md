@@ -4,9 +4,9 @@
 
 [Requirements](#Requirements)
 
-[PC Specs](#PC_Specs)
+[PC Specs](#PC-specs)
 
-[Install from Nexus](#Install_Steps_-_For_Nexus_downloaded_file)
+[Install from Nexus](#Install-Steps---For-Nexus-downloaded-file)
 
 
 <h2>Requirements</h2>
