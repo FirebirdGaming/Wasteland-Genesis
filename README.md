@@ -103,10 +103,10 @@ Open the Wabbajack file and select the Wabbajack.exe
 <h4>Step 5 - Using Wabbajack</h4>
 
 
-Select ‘Install from Disk’ The middle option.
+From the Welcome page select "Get Started" - The big pink box at the botto of the page!
 
 
-![image30](https://github.com/user-attachments/assets/c16d7386-3764-4254-9b63-d45ed8ea68b8)
+![image30](https://github.com/FirebirdGaming/Images/main/Wabbajack%20launcher.jpg)
 
 
 
