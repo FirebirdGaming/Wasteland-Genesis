@@ -115,16 +115,16 @@ This will take you to the next screen where you can select the install from disk
 ![image50](https://raw.githubusercontent.com/FirebirdGaming/Images/main/Wabbajack%20Install%20from%20file.jpg)
 
 
-On the next screen choose your file location on the left of the screen
-
-
-![image51](https://raw.githubusercontent.com/FirebirdGaming/Images/main/Wabbajack%20File%20Location.jpg)
-
-
 Under Target Modlist select the file “Wasteland Genesis.wabbajack” (not the .meta.json file) from the Nexus Folder that you created earlier.
 
 
 ![image32](https://github.com/user-attachments/assets/d1e805c9-de4a-4fee-bdb3-67f588d3295f)
+
+
+On the next screen choose your file location on the left of the screen
+
+
+![image51](https://raw.githubusercontent.com/FirebirdGaming/Images/main/Wabbajack%20File%20Location.jpg)
 
 
 
@@ -132,13 +132,28 @@ The other 2 fields fill themselves out, but you can change them if you want
 
 Then hit the install button
 
+<h2>Install Steps - For Wabbajack downloaded file</h2>
 
-<h4>Step 6 - Manual File Downloads</h4>
+<h5>Step 6 - Select Wasteland Genesis from the Wabbajack launcher</h5>
+
+![image52](https://raw.githubusercontent.com/FirebirdGaming/Images/main/Wabbajack%20Install%20from%20file.jpg)
+
+Then select install from file - the big pink box on the bottom left of the screem
+
+![image53](https://raw.githubusercontent.com/FirebirdGaming/Images/main/Wabbajack%20install.jpg)
+
+On the next screen choose your file location on the left of the screen
+
+
+![image54](https://raw.githubusercontent.com/FirebirdGaming/Images/main/Wabbajack%20File%20Location.jpg)
+
+
+<h4>Step 7 - Manual File Downloads</h4>
 
 
 You will be prompted to manually download 2 files.
 
-<h5>Step 6.1 - MiscHairStyle</h5>
+<h5>Step 7.1 - MiscHairStyle</h5>
 
 
 Press the Blue download button and close any pop ups it opens.
@@ -148,7 +163,7 @@ Press the Blue download button and close any pop ups it opens.
 
 
 
-<h5>Step 6.2 - OCBP body physics</h5>
+<h5>Step 7.2 - OCBP body physics</h5>
 
 
 🔴 ***The link takes you to Lovers Lab where there are porn pictures and it is strictly NSFW.***
@@ -168,7 +183,7 @@ Select the download button for OCBP_3.1.2_CBBE.zip
 
 This download often fails, so I will tell you how to download and install manually
 
-<h4>Step 7 - Correcting OCBP download failure</h4>
+<h4>Step 8 - Correcting OCBP download failure</h4>
 
 
 The OCBP Manual file will probably fail
@@ -218,7 +233,7 @@ DO NOT unzip the archive file!
 
 
 
-<h4>Step 8 - Continue with Installation</h4>
+<h4>Step 9 - Continue with Installation</h4>
 
 
 Your Wabbajack UI will look like this, so click the Main Menu button (with the left pointing arrow) in the bottom right section, that says Installation Failed and is flashing red
@@ -237,7 +252,7 @@ All the original setting will be saved, so just press the ‘play’ button
 
 
 
-<h4>Step 9 - Installation Complete</h4>
+<h4>Step 10 - Installation Complete</h4>
 
 
 When Project Genesis has completed, you should have a screen that looks like this
@@ -247,7 +262,7 @@ When Project Genesis has completed, you should have a screen that looks like thi
 
 
 
-<h4>Step 10 - Run Wasteland Genesis</h4>
+<h4>Step 11 - Run Wasteland Genesis</h4>
 
 
 Click on install folder and it will take you to the folder with all the mods, MO2 and other files needed to run this mod list
@@ -257,12 +272,12 @@ Click on install folder and it will take you to the folder with all the mods, MO
 
 
 
-<h4>Step 11 - Run Mod Organizer</h4>
+<h4>Step 12 - Run Mod Organizer</h4>
 
 
 Now select Wasteland Genesis.exe. The very last file which will open a portable version of MO2
 
-<h4>Step 12 - Adding Bodyslide Output</h4>
+<h4>Step 13 - Adding Bodyslide Output</h4>
 
 
 Get the extracted contents of Bodyslide Output.zip that you extracted earlier.
@@ -295,7 +310,7 @@ You may see this when dropping the file into MO2. Just click ok.
 
 
 
-<h5>Step 12.a - Alternative method to add Bodyslide Output</h5>
+<h5>Step 13.a - Alternative method to add Bodyslide Output</h5>
 
 
 An alternative method to do this is to copy (Ctrl+C) the Bodyslide Output file (From your Nexus folder), open the 'mods' folder in your Wasteland Genesis install file 
@@ -322,7 +337,7 @@ Simply click and hold it, then drag it up to just under Caliente’s Beautiful B
 
 You should now be good to go.
 
-<h4>Step 13 - Run the game!</h4>
+<h4>Step 14 - Run the game!</h4>
 
 
 
@@ -332,7 +347,7 @@ So click Run on the F4SE Loader on the right of the screen and the game should l
 ![image31](https://github.com/user-attachments/assets/f13ee377-09fa-49f8-a2f9-d327458e206e)
 
 
-<h4>Step 14 - Enjoy</h4>
+<h4>Step 15 - Enjoy</h4>
 
 ![image13](https://github.com/user-attachments/assets/0083e537-29d4-4c53-bf5d-f3ffb8ffdbcb)
 
