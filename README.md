@@ -129,6 +129,9 @@ Under Target Modlist select the file “Wasteland Genesis.wabbajack” (not the 
 
 The other 2 fields fill themselves out, but you can change them if you want
 
+Then hit the install button
+
+
 <h4>Step 6 - Manual File Downloads</h4>
 
 
