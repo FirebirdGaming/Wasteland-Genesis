@@ -109,7 +109,9 @@ From the Welcome page select "Get Started" - The big pink box at the botto of th
 ![image30](https://raw.githubusercontent.com/FirebirdGaming/Images/main/Wabbajack%20launcher.jpg)
 
 
-This will take you to the next screen where you select the file and installation locations.
+This will take you to the next screen where you can select the install from disk option, which can be found in the top right of the screen
+
+![image50](https://raw.githubusercontent.com/FirebirdGaming/Images/main/Wabbajack%20Install%20from%20file.jpg)
 
 
 ![image34](img/image34.png)
