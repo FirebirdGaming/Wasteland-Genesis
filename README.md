@@ -8,6 +8,12 @@
 
 [Install from Nexus](#Install-Steps---For-Nexus-downloaded-file)
 
+[Install from Wabbajack](#Install-Steps---For-Wabbajack-downloaded-file)
+
+[Manual files](#Manual-File-Downloads)
+
+[Launching Wasteland Genesis](#Run-Wasteland-Genesis)
+
 
 <h2>Requirements</h2>
 
