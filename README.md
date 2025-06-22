@@ -59,7 +59,8 @@ C:\Modding\Wasteland Genesis
 <h4>Step 2 - Downloading Wasteland Genesis</h4>
 
 
-From Nexus
+<b><u>From Nexus</u></b>
+
 
 Download Wasteland Genesis.zip
 
