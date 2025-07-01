@@ -290,6 +290,8 @@ Now select Wasteland Genesis.exe. The very last file which will open a portable 
 
 <h4>Step 13 - Adding Bodyslide Output</h4>
 
+*This step is optional if you want to use my body preset. If not, run Bodyslide within MO2, when it has downlaoded.*
+
 
 Get the extracted contents of Bodyslide Output.zip that you extracted earlier.
 
