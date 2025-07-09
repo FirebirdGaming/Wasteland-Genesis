@@ -300,7 +300,7 @@ Get the extracted contents of Bodyslide Output.zip that you extracted earlier.
 
 
 
-Put the extracted file (Bodyslide Output, NOT the .zip file) straight into the left pane of MO2, at the bottom of your load order.
+Put the extracted file (Bodyslide Output, NOT the .zip file) straight into the left pane of MO2, in the Body & Skin section, about position 59.
 
 
 ![image6](https://github.com/user-attachments/assets/e5a53b53-697f-4f6d-b80d-09be8303d713)
