@@ -25,7 +25,7 @@
 
 ### You need a clean & legal copy of Fallout 4 from Steam, as well as all DLC, EXCEPT the High Resolution Texture Pack
 
-## 🔴 **Creation Kit is a hard requirement** 🔴
+# 🔴 **Creation Kit is a hard requirement** 🔴
 
 <h3>PC Specs</h3>
 
