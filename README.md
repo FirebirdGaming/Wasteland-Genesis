@@ -17,6 +17,7 @@
 
 <h2>Requirements</h2>
 
+The latest, Next Gen, version of Fallout 4 - 1.10.984
 
 This mod list works best if installed on a SSD.
 
