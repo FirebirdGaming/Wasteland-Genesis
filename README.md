@@ -25,6 +25,8 @@ It will require 240 GB of space (the downloads can be deleted once it’s workin
 
 You need a clean & legal copy of Fallout 4 from Steam, as well as all DLC, EXCEPT the High Resolution Texture Pack
 
+<span styel="font-size:32">CREATION KIT IS A HARD REQUIREMENT</span>
+
 🔴 **Creation Kit is a hard requirement** 🔴
 
 <h3>PC Specs</h3>
