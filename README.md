@@ -17,13 +17,13 @@
 
 <h2>Requirements</h2>
 
-The latest, Next Gen, version of Fallout 4 - 1.10.984
+### The latest, Next Gen, version of Fallout 4 - 1.10.984
 
-This mod list works best if installed on a SSD.
+### This mod list works best if installed on a SSD.
 
-It will require 240 GB of space (the downloads can be deleted once it’s working to save space 74 GB).
+### It will require 240 GB of space (the downloads can be deleted once it’s working to save space 74 GB).
 
-You need a clean & legal copy of Fallout 4 from Steam, as well as all DLC, EXCEPT the High Resolution Texture Pack
+### You need a clean & legal copy of Fallout 4 from Steam, as well as all DLC, EXCEPT the High Resolution Texture Pack
 
 ## 🔴 **Creation Kit is a hard requirement** 🔴
 
