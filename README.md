@@ -79,13 +79,11 @@ C:\Modding\Wasteland Genesis
 
 Download Wasteland Genesis.zip
 
-Download Bodyslide Output.zip
+_(You can put this into your C:Modding\Nexus Files folder if you use the same structure as me)_
 
-_(You can put these into your C:Modding\Nexus Files folder if you use the same structure as me)_
+Unzip Wasteland Genesis.zip and save for later
 
-Unzip both files and save them for later
-
-The contents of your folder should look like this
+The contents of your folder should look like this (Ignore Bodyslide I need to change the picture)
 
 
 ![image23](https://github.com/user-attachments/assets/243744e1-4756-430c-a466-2427bfa841d4)
@@ -266,7 +264,7 @@ All the original setting will be saved, so just press the ‘play’ button
 <h4>Step 10 - Installation Complete</h4>
 
 
-When Project Genesis has completed, you should have a screen that looks like this
+When Wasteland Genesis has completed, you should have a screen that looks like this
 
 
 ![image21](https://github.com/user-attachments/assets/9ddc1edb-dcbc-41f1-a052-2645784445f7)
@@ -291,65 +289,9 @@ Now select Wasteland Genesis.exe. The very last file which will open a portable 
 
 <h4>Step 13 - Adding Bodyslide Output</h4>
 
-*This step is optional if you want to use my body preset. If not, run Bodyslide within MO2, when it has downlaoded.*
+*This step is no longer needed as of V2.5*
 
 
-Get the extracted contents of Bodyslide Output.zip that you extracted earlier.
-
-
-![image12](https://github.com/user-attachments/assets/996e6975-d889-4b64-b81a-b6d20e4a154c)
-
-
-
-Put the extracted file (Bodyslide Output, NOT the .zip file) straight into the left pane of MO2, in the Body & Skin section, about position 59.
-
-
-![image6](https://github.com/user-attachments/assets/e5a53b53-697f-4f6d-b80d-09be8303d713)
-
-
-
-Then activate the mod, by clicking the circle on the left
-
-
-![image25](https://github.com/user-attachments/assets/2ff9c76f-856d-40dd-b2b7-7c5acdb2b241)
-
-
-
-This will ensure all the clothing fits the character nicely and uses the body I use in my videos.
-
-You may see this when dropping the file into MO2. Just click ok.
-
-
-![image2](https://github.com/user-attachments/assets/df551831-3909-4387-9924-80317caf2093)
-
-
-
-<h5>Step 13.a - Alternative method to add Bodyslide Output</h5>
-
-
-An alternative method to do this is to copy (Ctrl+C) the Bodyslide Output file (From your Nexus folder), open the 'mods' folder in your Wasteland Genesis install file 
-
-
-![image39](https://github.com/user-attachments/assets/fb8e544b-51f3-4e41-bafc-1bbb9f7b47aa)
-
-
-
-And paste the file here
-
-
-![image35](https://github.com/user-attachments/assets/77980a29-8eec-42c2-952e-72a5765fb742)
-
-
-
-Press F5 to refresh MO2. This mod will be right at the bottom, under animations
-
-
-![image3](https://github.com/user-attachments/assets/6b2a68af-e954-40fe-89f5-3457aa986c42)
-
-
-Simply click and hold it, then drag it up to just under Caliente’s Beautiful Body Enhancer., as per Step 11. Make sure to activate it!
-
-You should now be good to go.
 
 <h4>Step 14 - Run the game!</h4>
 
