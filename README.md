@@ -17,7 +17,7 @@
 
 <h2>Requirements</h2>
 
-# 🔴 **Creation Kit is a hard requirement - Make sure you have this first!** 🔴
+# **Creation Kit is a hard requirement - Make sure you have this first!** 
 
 ### The latest, Next Gen, version of Fallout 4 - 1.10.984
 
