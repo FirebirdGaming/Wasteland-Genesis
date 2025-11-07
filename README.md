@@ -19,7 +19,7 @@
 
 # **Creation Kit is a hard requirement - Make sure you have this first!** 
 
-### The latest, Next Gen, version of Fallout 4 - 1.10.984
+#### REQUIRED GAME VERSION - Next Gen, version of Fallout 4 - 1.10.984
 
 ### This mod list works best if installed on a SSD.
 
