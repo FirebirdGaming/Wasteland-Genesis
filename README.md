@@ -25,7 +25,7 @@
 
 ### It will require 240 GB of space (the downloads can be deleted once it’s working to save space 74 GB).
 
-### You need a clean & legal copy of Fallout 4 from Steam, as well as all DLC, EXCEPT the High Resolution Texture Pack
+### You need a clean & legal copy of Fallout 4 from Steam, as well as all DLC, EXCEPT the High Resolution Texture Pack (Downgrade if you have the Anniversary Edition)
 
 
 
