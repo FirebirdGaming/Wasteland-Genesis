@@ -48,8 +48,7 @@ Storage - 2TB Fanxiang S500 PRO
 
 This video explains how to downgrade to the correct version of Fallout 4
 
- ![[Wasteland Genesis — Watch on YouTube](https://youtu.be/QGN0W7vyYAY)](https://img.youtube.com/vi/QGN0W7vyYAY/maxresdefault.jpg)
-
+ HTML: <a href="[https://www.youtube.com/watch?v=QGN0W7vyYAY](https://youtu.be/QGN0W7vyYAY)"><img src="https://img.youtube.com/vi/QGN0W7vyYAY/maxresdefault.jpg" alt="Wasteland Genesis — Watch on YouTube"></a>
  
 
 <h2>Install Steps - For Nexus downloaded file</h2>
