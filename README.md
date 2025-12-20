@@ -4,6 +4,8 @@
 
 [Requirements](#Requirements)
 
+[Downgrade from Anniversary Edition](#How-to-DOWNGRADE-from-Anniversary-Edition)
+
 [PC Specs](#PC-specs)
 
 [Install from Nexus](#Install-Steps---For-Nexus-downloaded-file)
