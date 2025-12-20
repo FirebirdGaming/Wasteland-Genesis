@@ -42,6 +42,14 @@ RAM - Corsair Vengeance LPX DDR4 - 2 x 8GB (16GB)
 
 Storage - 2TB Fanxiang S500 PRO
 
+<h2>How to DOWNGRADE from Anniversary Edition</h2>
+
+This video explains how to downgrade to the correct version of Fallout 4
+
+ ![Wasteland Genesis — Watch on YouTube](https://img.youtube.com/vi/QGN0W7vyYAY/maxresdefault.jpg)
+
+ 
+
 <h2>Install Steps - For Nexus downloaded file</h2>
 
 
